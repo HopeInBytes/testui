@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/testui/static/css/main.f855e6bc.css",
+    "main.js": "/testui/static/js/main.65d85583.js",
+    "static/js/592.ebc19f7d.chunk.js": "/testui/static/js/592.ebc19f7d.chunk.js",
+    "index.html": "/testui/index.html",
+    "main.f855e6bc.css.map": "/testui/static/css/main.f855e6bc.css.map",
+    "main.65d85583.js.map": "/testui/static/js/main.65d85583.js.map",
+    "592.ebc19f7d.chunk.js.map": "/testui/static/js/592.ebc19f7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.65d85583.js"
+  ]
+}
